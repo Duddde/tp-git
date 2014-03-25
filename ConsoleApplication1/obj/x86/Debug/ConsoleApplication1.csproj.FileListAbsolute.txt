@@ -1,0 +1,5 @@
+F:\Cours\ArchiNtiers\tp-git\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Cours\ArchiNtiers\tp-git\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Cours\ArchiNtiers\tp-git\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Cours\ArchiNtiers\tp-git\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\Cours\ArchiNtiers\tp-git\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
